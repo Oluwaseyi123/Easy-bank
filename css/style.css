@@ -193,7 +193,7 @@ a {
   font-weight: 300;
   color: #9698a6;
   text-align: center;
-  width: 450px;
+  width: 90%;
   line-height: 23px;
   margin: 0 auto;
   padding: 20px 0px 30px 0px;
@@ -243,6 +243,10 @@ a {
 .why-choose {
   margin-bottom: 50px;
   padding-top: 50px;
+}
+
+.why-choose p {
+  padding: 0px 5px;
 }
 
 .flex {
